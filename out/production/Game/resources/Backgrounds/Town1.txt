@@ -1,0 +1,12 @@
+2
+Man1
+Priest1
+2
+Passive Bird
+Silly Slime
+5
+1421 880 45 380 Forest 70 320
+400 265 50 90 House11 95 300
+1035 465 50 90 House12 95 300
+365 670 50 90 House13 295 140
+995 1235 50 90 House14 40 300

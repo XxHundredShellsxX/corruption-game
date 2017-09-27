@@ -1,0 +1,7 @@
+3
+The wizard silently looks at you
+You suddenly feel like you're on fire
+Will you take a step forward?
+DOWN
+FIRE WIZARD
+1690 110 70 60

@@ -1,0 +1,38 @@
+Castle
+762 1162 400 200
+3
+6
+Halt! Who are you and what is your business?
+.....
+Oh? So you are here to stop the king you say?
+What a laughable statement, I shall teach you
+to respect your ruler child, no mercy will
+be shown to those who oppose the king!
+6
+Hm, it seems my fellow guard has ran away...
+No matter, if you can best him, it means you
+may just prove a challenge
+If you weren't trying to intrude, I may have
+been trying to recruit you instead
+For now, in the name of the king I fight thee!
+19
+Ho ho! Those knights went rushing out!
+What a show, you, child are a gifted one
+I have not seen such prowess in many years
+Now what are you here for?
+........
+Oh... Well if you want to meet the king you
+will have to beat the two wizards in the
+left and right side of this very room
+They have cast a spell that does not
+allow anyone to enter any further
+Good luck child!
+Although not everything is as it seems..
+One last thing, I offer you this almighty weapon
+In exchange you must have the spirit equivalent
+to 9000 moons, will you take this offer?
+Beware that if you accept and come short
+that you will have to pay a *very* dear price
+Anyhow I will be off! Decide carefully..
+Will you choose to take the ultimate weapon!?
+3

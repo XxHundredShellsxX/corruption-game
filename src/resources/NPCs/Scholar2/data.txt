@@ -1,0 +1,7 @@
+3
+Do you read books?
+Huh? Light Novels?
+Those arent real books!
+DOWN
+NONE
+140 200 40 30

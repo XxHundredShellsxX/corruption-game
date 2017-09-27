@@ -1,0 +1,13 @@
+2
+Man2
+Woman1
+2
+Bouncy Slime
+Wild Bird
+6
+0 730 50 465 Forest 1100 320
+610 0 250 50 OutsideCastle 730 1570
+550 500 50 90 House21 95 300
+1150 550 50 90 House22 95 300
+510 1235 50 90 House23 295 140
+1050 1230 50 90 House24 40 300

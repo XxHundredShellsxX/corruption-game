@@ -1,0 +1,12 @@
+1
+Fire Wizard
+22000
+BOSS
+3
+Sinusoidal Fire
+Lava Evade
+Rotating Pillars
+3
+The Mysterious Wizard is 
+emanating a flaming aura..
+Better be careful

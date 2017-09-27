@@ -1,0 +1,9 @@
+3
+InvisibleWall
+Wizard1
+Wizard2
+0
+2
+915 1345 70 50 OutsideCastle 750 520
+922 50 58 90 Boss 430 460
+

@@ -1,0 +1,7 @@
+3
+The wizard silently looks at you
+You suddenly feel very cold...
+Will you take a step forward?
+DOWN
+ICE WIZARD
+142 110 70 60

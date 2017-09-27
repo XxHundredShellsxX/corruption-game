@@ -1,0 +1,22 @@
+2
+Wild Bird
+5000
+Not Boss
+2
+Hard Feather Fall
+Hard Wing Slash
+4
+The Bird looks at you with slitted
+eyes.....
+This one seems really aggressive..
+Better Deal with it quick!
+Passive Bird
+2000
+Not Boss
+2
+Easy Feather Fall
+Easy Wing Slash
+3
+This Bird kinda looks ditzy
+I don't think it'll be hard to deal
+with at all...

@@ -1,0 +1,6 @@
+2
+It appears there is an invisible
+force blocking your way
+RIGHT
+NONE
+915 40 70 110

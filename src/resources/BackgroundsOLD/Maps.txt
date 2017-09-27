@@ -1,0 +1,15 @@
+14
+Boss 
+Castle
+OutsideCastle
+Forest
+Town1
+Town2
+House11
+House12
+House13
+House14
+House21
+House22
+House23
+House24

@@ -1,0 +1,13 @@
+Man1
+Man2
+Priest1
+Woman1
+Woman2
+Woman3
+Scholar1
+Woman4
+Man3
+Scholar2
+Woman5
+Priest2
+Scholar3

@@ -1,0 +1,6 @@
+5
+Apple,400,10,Pretty Ripe
+Chocolate,700,15,Delicious!
+CheeseCake,1000,25,It really is sweet
+S_Lollipop,1400,45,This can really make you hyper..
+Tiramisu,2000,70,Now you're really in heaven...

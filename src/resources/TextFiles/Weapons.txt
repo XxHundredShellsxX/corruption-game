@@ -1,0 +1,9 @@
+8
+Sword,its a sword,0,180,8,6,200,1,0
+Hammer,You pound nails with this,1500,120,15,5,250,1,0
+Polearm,Like a spear and axe put together,2000,300,6,3,220,4,0
+Spear,A long poking stick that hurts,1800,250,8,5,210,3,0
+Wand,It's magical!,2500,200,10,8,270,2,1
+Staff,It's a wand but more magical!,3200,320,8,6,250,4,1
+Excalibur,The Mightiest of swords!,5000,450,10,7,200,4,2
+???,...,7500,1000,5,8,250,4,3

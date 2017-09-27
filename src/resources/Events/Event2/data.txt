@@ -1,0 +1,9 @@
+Town2
+1050 1230 50 100
+1
+4
+I hear a lot of shouting going in there
+You should prepare yourself for any
+fight you may have to face
+Are you sure you want to enter now?
+0

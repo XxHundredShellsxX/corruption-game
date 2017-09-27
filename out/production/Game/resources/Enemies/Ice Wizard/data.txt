@@ -1,0 +1,12 @@
+1
+Ice Wizard
+24000
+BOSS
+3
+Breaking Ice
+Blizzard
+Shoot Player
+3
+The Mysterious Wizard is 
+emanating an aura that chills
+you to your bones...

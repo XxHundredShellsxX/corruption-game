@@ -1,0 +1,7 @@
+3
+The people around here are really noisy!
+Maybe I should go move to the town 
+next door....
+LEFT
+NONE
+435 180 40 30

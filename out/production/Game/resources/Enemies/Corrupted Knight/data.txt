@@ -1,0 +1,33 @@
+3
+Random Agressive Knight
+2000
+BOSSd
+2
+Breaking Ice
+Shooting Star
+5
+You're gonna regret defying me!
+I will defeat anyone who comes in
+my way!
+A kid like you is nothing to worry 
+about hah!
+Bullying Knight 1
+8000
+BOSS
+2
+Quick Slash
+Smooth Fire Attack
+3
+Jeez, I hate fighting kids
+but runts like you really need to be
+taught a lesson! 
+Bullying Knight 2
+9000
+BOSS
+2
+Quick Slash
+Smooth Fire Attack
+3
+I Still cant believe Gerald was beat
+by a scrawny kid like you!
+I'll make sure to send you packing!
